@@ -19,7 +19,7 @@ function johnLennonFacts (facts) {
 }
 
 function (number) {
-  var [] 
+  var [text]
   var text = "";
 var i = 0;
 do {
