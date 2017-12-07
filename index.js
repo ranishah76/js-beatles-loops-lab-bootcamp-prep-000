@@ -1,6 +1,6 @@
 
 function theBeatlesPlay (musicians, instruments) {
-var array1 = []        
+var array1 = []
 
 for (var i = 0; i < musicians.length; i++) {
     array1.push (musicians[i] + " plays " + instruments[i])
@@ -25,5 +25,5 @@ function iLoveTheBeatles (number) {
    number ++
  }
   while (number < 15)
-  return array 
+  return array
 }
